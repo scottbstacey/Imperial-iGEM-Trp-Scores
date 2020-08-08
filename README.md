@@ -1,4 +1,4 @@
-
+This is the original README.md from the https://github.com/biosustain/trp-scores 
 # trp-scores
 
 Code for scoring genes as upregulation / downregulation candidates for increased tryptophan production. Used in [this pre-print](https://doi.org/10.1101/858464).
